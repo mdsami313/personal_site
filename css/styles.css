@@ -1,0 +1,155 @@
+body {
+    color: #3a4b48;
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    
+}
+
+.about-me {
+    width: 40%;
+    margin: auto;
+}
+
+hr {
+    border: dotted #d1dfdf 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    line-height: 1;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    line-height: 2;
+    
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
+
+.computer-design {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align:left;
+}
+
+.instagram-link {
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+}
+
+.profile-img {
+    border-radius: 50%;
+}
+
+.pepper {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.twitter-link {
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+}
+
+.top-container {
+    background-color:#defafa;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 60px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {  
+    background-color: #66BFBF;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.social-link {
+    color: #11999E;
+    padding: 25px;
+}
+
+.copyright-name {
+    color: #EAF6F6;
+    padding-top: 20px;
+    font-size: 0.75rem;
+}
+
+
+
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: normal;
+  background: #34d3d9;
+  padding: 10px 15px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #42b8d6;
+  text-decoration: none;
+}
+
+.contact-me {
+    line-height: 2;   
+}
+
+.queries {
+    width: 30%;
+    margin: 40px auto 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:#EAF6F6;
+}
